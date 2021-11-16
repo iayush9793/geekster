@@ -1,0 +1,154 @@
+<html>
+    <head>
+        <title>
+       GEEKSTER PROJECT
+        </title>
+      
+        <style>
+            a{
+                text-decoration: burlywood;
+                color: cornsilk;
+                margin: 40px;
+                
+            }
+            h1{
+                color: blanchedalmond;
+            }
+            body{
+                margin: 0%;
+            }
+            #main{
+                height: 70px;
+                
+                background-color: rgb(15, 6, 6);
+                
+            }
+            #logo{
+                height: 70px;
+                width: 30%;
+                background-color: black;
+                float: left;
+                text-align: center;
+            }
+            #link{
+                height: 70px;
+                width: 70%;
+                background-color: black;
+                float: right;
+                line-height: 90px;
+                text-align: right;
+
+            }
+            img{
+                border-radius: 50%;
+            }
+            #intro{
+                margin-top: 12%;
+            }
+            
+            #ab{
+                height: 50%;
+                width: 30%;
+                
+                margin-left: 4%;
+                float: left; }
+            #image{
+                border-radius: 50%;
+                margin-top: 15%;
+                margin-left: 12%;
+            }
+            #hel{
+                color: black;
+            }
+            h3{
+                text-align: center;
+            }
+            #we{
+                margin-bottom: 15%;
+            }
+            table{
+                width: 100%;
+                text-align: center;
+            }
+            #foot{
+                background-color: rgb(83, 77, 94);
+                margin-top: 10px;
+                padding: 30px;
+                text-align: center;
+            }
+ 
+ </style>
+    </head>
+    <body>
+        <div id="main">
+            <div id="logo">
+             <h1>AYUSH GEEKSTER</h1>
+            </div>
+            <div id="link">
+                <a href="#">HOME</a>
+                <a href="#">BLOGS</a>
+                <a href="#">PROJECTS</a>
+                <a href="#">CONTACT</a>
+                <a href="#">ABOUT US</a>
+
+            </div>
+        </div>
+        <div id="intro">
+            <div id="ab">
+                <img src="https://images.pexels.com/photos/5908688/pexels-photo-5908688.jpeg?cs=srgb&dl=pexels-brett-jordan-5908688.jpg&fm=jpg" height="400px" width="400px">
+            </div>
+            <div id="we">
+                <br><br><br>
+                <h2>MYSELF AYUSH! YOUR FRIEND...</h2>
+                <H3>LEARN WHAT IS PYTHON??</H3>
+                <p><b>Python is a popular programming language.
+
+                    Python can be used on a server to create web applications.</b></p>
+                <p>Python is a widely used general-purpose, high level programming language.<br> It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation.<br>
+                     It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code. 
+
+                </p>
+            </div>
+
+        </div>
+        <div id="table">
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?cs=srgb&dl=pexels-pixabay-270348.jpg&fm=jpg" height="250px" width="250px">
+                        <h3>WEB DEVELOPMENT</h3>
+                    </td>
+                    <td>
+                        <img src="https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?cs=srgb&dl=pexels-christina-morillo-1181671.jpg&fm=jpg" height="250px" width="250px">
+                        <h3>PYTHON</h3>
+                    </td>
+                    <td>
+                        <img src="https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?cs=srgb&dl=pexels-christina-morillo-1181298.jpg&fm=jpg" height="250px" width="250px">
+                        <h3>JAVA</h3>
+                    </td>
+                    <td>
+                        <img src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?cs=srgb&dl=pexels-antonio-batini%C4%87-4164418.jpg&fm=jpg" height="250px" width="250px">
+                        <h3>REACT</h3>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="foot">
+            <div>
+
+            <img src="https://cdn.pixabay.com/photo/2021/02/08/15/44/social-media-5995266_960_720.png" height="100px" width="200px">
+
+            </div>
+            
+            
+            <div>
+                <p><b>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum voluptatum unde quam et ipsam molestias a nobis repellendus molestiae! Voluptate nobis est voluptatum esse quam.</b></p>
+
+            </div>
+            <div>
+                <h3>copyrights &copy; by Ayush Srivastava</h3>
+            </div>
+        </div>
+
+    </body>
+</html>
